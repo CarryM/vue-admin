@@ -2,7 +2,7 @@
     <div class="header">
         <div class="logo" @click="goIndex" >
           <!-- <img src="../../assets/img/logo.png" alt=""> -->
-             杭州华数HFC网管系统
+             vue后台管理系统
         </div>
         <div class="header-right">
             <div class="header-user-con">
